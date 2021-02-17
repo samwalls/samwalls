@@ -1,1 +1,1 @@
-This essay by E.W. Dijkstra is interesting: [On the Cruelty of Really Teaching Computer Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html)
+[On the Cruelty of Really Teaching Computer Science](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1036.html)
